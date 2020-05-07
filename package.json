@@ -1,0 +1,34 @@
+{
+  "name": "react-native-contact-tracing",
+  "title": "React Native Contact Tracing",
+  "version": "0.0.1",
+  "description": "React Native Module for Bluetooth Contact Tracing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzachari/react-native-contact-tracing.git",
+    "baseUrl": "https://github.com/tzachari/react-native-contact-tracing"
+  },
+  "homepage": "https://github.com/tzachari/react-native-contact-tracing",
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Thomas Zachariah",
+    "email": "tzachari@berkeley.edu"
+  },
+  "license": "Apache-2.0",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
